@@ -7,7 +7,7 @@ Word Sense Disambiguation is a NLP task where the correct meaning of a word in a
 1. Python3
 
 For windows:
-* [Python Installation](https://www.python.org/downloa Here, the simplified lesk algorithm is implemented to disambiguate the word bank in the sentence. WordNet Library API is used to access the WordNet dictionary.ds/)
+* [Python Installation](https://www.python.org/downloads/)
 
 For Mac:
 
