@@ -1,0 +1,20 @@
+Here are the overlapping words - 
+{Synset('bank.n.01'): ['bank']}
+{Synset('depository_financial_institution.n.01'): ['bank', 'deposits', 'mortgage']}
+{Synset('bank.n.03'): ['bank']}
+{Synset('bank.n.04'): ['bank', 'in']}
+{Synset('bank.n.05'): ['future', 'in']}
+{Synset('bank.n.06'): ['bank', 'in']}
+{Synset('bank.n.07'): ['in']}
+{Synset('savings_bank.n.02'): ['bank', 'in']}
+{Synset('bank.n.09'): ['bank', 'in']}
+{Synset('bank.n.10'): ['bank', 'in']}
+{Synset('bank.v.01'): ['bank']}
+{Synset('bank.v.02'): ['bank']}
+{Synset('bank.v.03'): ['bank', 'in']}
+{Synset('bank.v.04'): ['in']}
+{Synset('bank.v.05'): ['in']}
+{Synset('deposit.v.02'): ['bank', 'deposits']}
+{Synset('bank.v.07'): ['bank', 'cover']}
+{Synset('trust.v.01'): ['bank', 'can', 'in']}
+The final chosen sense =  Synset('depository_financial_institution.n.01')
